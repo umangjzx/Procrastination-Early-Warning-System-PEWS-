@@ -1,0 +1,4 @@
+__pycache__/
+behavior.db
+model.pth
+.env
